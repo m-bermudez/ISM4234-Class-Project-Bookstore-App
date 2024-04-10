@@ -1,0 +1,14 @@
+C:\Users\mauib\source\repos\BookstoreTest\BookstoreTest\obj\Debug\netcoreapp3.1\BookstoreTest.csproj.AssemblyReference.cache
+C:\Users\mauib\source\repos\BookstoreTest\BookstoreTest\obj\Debug\netcoreapp3.1\BookstoreTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauib\source\repos\BookstoreTest\BookstoreTest\obj\Debug\netcoreapp3.1\BookstoreTest.AssemblyInfoInputs.cache
+C:\Users\mauib\source\repos\BookstoreTest\BookstoreTest\obj\Debug\netcoreapp3.1\BookstoreTest.AssemblyInfo.cs
+C:\Users\mauib\source\repos\BookstoreTest\BookstoreTest\obj\Debug\netcoreapp3.1\BookstoreTest.csproj.CoreCompileInputs.cache
+C:\Users\mauib\source\repos\BookstoreTest\BookstoreTest\bin\Debug\netcoreapp3.1\BookstoreTest.exe
+C:\Users\mauib\source\repos\BookstoreTest\BookstoreTest\bin\Debug\netcoreapp3.1\BookstoreTest.deps.json
+C:\Users\mauib\source\repos\BookstoreTest\BookstoreTest\bin\Debug\netcoreapp3.1\BookstoreTest.runtimeconfig.json
+C:\Users\mauib\source\repos\BookstoreTest\BookstoreTest\bin\Debug\netcoreapp3.1\BookstoreTest.runtimeconfig.dev.json
+C:\Users\mauib\source\repos\BookstoreTest\BookstoreTest\bin\Debug\netcoreapp3.1\BookstoreTest.dll
+C:\Users\mauib\source\repos\BookstoreTest\BookstoreTest\bin\Debug\netcoreapp3.1\BookstoreTest.pdb
+C:\Users\mauib\source\repos\BookstoreTest\BookstoreTest\obj\Debug\netcoreapp3.1\BookstoreTest.dll
+C:\Users\mauib\source\repos\BookstoreTest\BookstoreTest\obj\Debug\netcoreapp3.1\BookstoreTest.pdb
+C:\Users\mauib\source\repos\BookstoreTest\BookstoreTest\obj\Debug\netcoreapp3.1\BookstoreTest.genruntimeconfig.cache
